@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_Contador.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/M_ActorColor.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_ColorChange.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_ActorReproductor.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_A.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_B.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_C.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_B2.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_A1.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_C3.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/color.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/color1.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/color2.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8H/XBY7U42R0SWAXKQ6KQAUXU.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/AA/XQ2Q4NMHDHTT99BUIBL1SG.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/BN/T33WIGWZ06GW5Y830THDCP.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2S/PM50TGRYZH9U50EV0ID71A.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/CP/X7ODJUO5GO894RUD0RI576.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/ZR/GLDXX0Y8Q2NVUJJBV16H6F.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4F/UVWE7MCYA15QOC1DMJLIM7.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/UB/9WJJY2NO386CQ6YZZP25CS.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/E-FA.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/E-FB.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/E-FC.uasset",
+				"C:/Users/santino/Pictures/unidad_4/unidad_3_1/Content/unidad_3_1/BP_SelfSpawner.uasset"
+			]
+		}
+	]
+}
